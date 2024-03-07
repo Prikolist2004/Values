@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Strani_dengi_stolici</string>
+    <string name="flag">da</string>
+    <string name="russianRUB">RU</string>
+    <string name="russian">Russian rouble</string>
+    <string name="capitalRU">Moscow</string>
+
+
+    <string name="flagjp">da</string>
+    <string name="jpV">JPN</string>
+    <string name="jp">Yen</string>
+    <string name="capitalJP">Tokyo</string>
+
+    <string name="flagrs">da</string>
+    <string name="rsV">SRB</string>
+    <string name="rs">Srpski dinar </string>
+    <string name="capitalrs">Belgrad</string>
+
+    <string name="flagtr">da</string>
+    <string name="trv">TUR</string>
+    <string name="tr">Turkish Lira</string>
+    <string name="capitaltr">Ankara</string>
+
+    <string name="flagde">da</string>
+    <string name="dev">DEU</string>
+    <string name="de">EURO</string>
+    <string name="capitalde">Berlin</string>
+
+    <string name="flagee">da</string>
+    <string name="eev">EST</string>
+    <string name="ee">EURO</string>
+    <string name="capitalee">Tallinn</string>
+</resources>
